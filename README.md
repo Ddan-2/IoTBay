@@ -1,2 +1,3 @@
-# intro-software-dev
-Introduction to Software Development 2022
+#IoTBay
+
+Github Repo for Introduction to Software Development 2022
